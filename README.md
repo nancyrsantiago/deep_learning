@@ -36,5 +36,4 @@ The model only trained for ten epochs since the model achieved the target perfor
 
 One significant change that was added to increase the model performance was adding the NAME feature back as an input during the model optimization. Due to this change, a significant improvement in the model performance was noticed.
 
-Summary: A binary classification model was built using Neural Networks. Before optimizing the model, the accuracy was approximately 73%. However, after optimizing the model, the target performance was achieved with an accuracy of over 79%.
-After researching binary classifiers (models that are trained with datasets labeled with 1s and 0s representing the two classes), other popular learning algorithms that do well with binary classification were found, including logistic regression, Naïve Bayes, and k-Nearest Neighbor. Future work of this project would include comparing the performance of the optimized neural network model against the other machine learning models that typically perform well on binary classification.
+Summary: A binary classification model was built using Neural Networks. The target performance was achieved with an accuracy of over 79%.
